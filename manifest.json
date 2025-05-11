@@ -20,6 +20,13 @@
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://api.piped.yt"
+    },
+    {
+      "app": "Invidious",
+      "region": "South America",
+      "country": "Chile",
+      "flag": "🇨🇱",
+      "url": "https://inv.nadeko.net/"
     }
   ]
 }
