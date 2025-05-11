@@ -23,6 +23,13 @@
     },
     {
       "app": "Invidious",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "url": "https://id.420129.xyz/"
+    },
+    {
+      "app": "Invidious",
       "region": "South America",
       "country": "Chile",
       "flag": "🇨🇱",
